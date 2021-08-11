@@ -1,28 +1,29 @@
 # robot-framework
 Space to save my individual works aiming pratice using robot framework for web tests using SeleniumLibrary.
 
-Robot website: https://robotframework.org/
+Robot website: https://robotframework.org/ <br/>
 Selenium: https://robotframework.org/SeleniumLibrary/
 
 To install Robot Framework and Libraries needed for web test:
 
 When using in linux use to access root:
->  sudo su
-after put password, will be as root.
+>  sudo su 
+
+After put password, will be as root.
 
 Normally linux come with Python installed, if not use:
 
-$ sudo apt-get install python3
-$ sudo apt-get install python3-pip
+> sudo apt-get install python3 <br/>
+> sudo apt-get install python3-pip
 
 After Python installed use these commands:
 
-pip3 install robotframework
-pip3 install --upgrade robotframework-selenium2library
-pip3 install --upgrade --pre robotframework-selenium2library
-pip3 install webdrivermanager
-pip3 install -U robotframework-JSONLibrary
-webdrivermanager firefox chrome --linkpath /usr/local/bin
+> pip3 install robotframework <br/>
+> pip3 install --upgrade robotframework-selenium2library <br/>
+> pip3 install --upgrade --pre robotframework-selenium2library <br/>
+> pip3 install webdrivermanager <br/>
+> pip3 install -U robotframework-JSONLibrary <br/>
+> webdrivermanager firefox chrome --linkpath /usr/local/bin <br/>
 
 In windows the difference is remember to mark the option "Add Python to environment variables/PATH" in installation 
 
