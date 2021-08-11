@@ -16,14 +16,14 @@ Normally linux come with Python installed, if not use:
 > sudo apt-get install python3-pip
 
 After Python installed use these commands:
-<ul>
-> pip3 install robotframework
-> pip3 install --upgrade robotframework-selenium2library
-> pip3 install --upgrade --pre robotframework-selenium2library
-> pip3 install webdrivermanager
-> pip3 install -U robotframework-JSONLibrary
-> webdrivermanager firefox chrome --linkpath /usr/local/bin
-<ul/>
+
+> pip3 install robotframework <br/>
+> pip3 install --upgrade robotframework-selenium2library <br/>
+> pip3 install --upgrade --pre robotframework-selenium2library <br/>
+> pip3 install webdrivermanager <br/>
+> pip3 install -U robotframework-JSONLibrary <br/>
+> webdrivermanager firefox chrome --linkpath /usr/local/bin <br/>
+
 In windows the difference is remember to mark the option "Add Python to environment variables/PATH" in installation 
 
 Now we need download the webdriver with same version of our chrome in https://chromedriver.chromium.org/downloads
