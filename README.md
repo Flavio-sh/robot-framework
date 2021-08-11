@@ -9,7 +9,7 @@ To install Robot Framework and Libraries needed for web test:
 When using in linux use to access root:
 >  sudo su 
 
-after put password, will be as root.
+After put password, will be as root.
 
 Normally linux come with Python installed, if not use:
 
