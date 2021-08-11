@@ -7,5 +7,5 @@ Test Teardown             Fechar navegador
 
 *** Test Case ***
 
-Search video
+Search in google
     Search 'youtube.com'
